@@ -15,6 +15,9 @@ Projeto em Verilog de um microcontrolador dual-core baseado em RISC-V, otimizado
 - `Makefile` - Automatização das tarefas de build, simulação e visualização.
 
 ## Como rodar os testes
+
+Instale o Python 3, e crie um ambiente Virtual para ele, depois instale o riscv32-unknown-elf, certifiquese que o MakeFile está com o caminho correto onde o riscv32-unknown-elf foi instalado.
+
 ```sh
 make sim
 make gtkwave
