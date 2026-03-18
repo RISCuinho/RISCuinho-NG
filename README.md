@@ -1,5 +1,15 @@
 # RISCuinho New Generation (RISCuinho-NG)
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RISCuinho.RISCuinho-NG)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue)
+![FPGA](https://img.shields.io/badge/FPGA-Gowin-green)
+![Toolchain](https://img.shields.io/badge/Toolchain-Opensource-orange)
+![Status](https://img.shields.io/badge/Status-Funcional-brightgreen)
+
+
 Projeto em Verilog de um microcontrolador dual-core baseado em RISC-V, otimizado para uso com FreeRTOS. Características principais:
 
 - **Dois cores RISC-V** compartilhando memória RAM.
